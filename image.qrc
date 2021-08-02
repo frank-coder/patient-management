@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logo.PNG</file>
+    <file>username_background.PNG</file>
+    <file>hospital_background.PNG</file>
+  </qresource>
+</RCC>
